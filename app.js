@@ -6,4 +6,4 @@ const addTwo = (num1, num2) => {
     }
 };
 
-console.log(addTwo('Hello', 25));
+console.log(addTwo(125, 25));
