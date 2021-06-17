@@ -1,4 +1,4 @@
-# Project Name
+# git_practice
 Getting used to the new tech I'm learning about. <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
