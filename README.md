@@ -39,7 +39,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@TenguTerror](https://www.vegasduard@gmail.com/) - feel free to contact me!
+Created by [@TenguTerror](https://www.vegasduard@gmail.com/) - feel free to contact me! 😎
 
 
 <!-- Optional -->
